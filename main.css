@@ -1,0 +1,80 @@
+button {
+    background-color: rgb(92, 149, 73);
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+#trfacebook{
+    padding-bottom: 10%;
+}
+
+button:hover {
+    background-color: green;
+}
+
+.T0{
+    background-color:rgb(64, 64, 131);
+    height: 15px;
+}
+.T1{
+    color: blanchedalmond;
+}
+
+.T2{
+    background-color: blanchedalmond;
+}
+
+.b1{
+    background-color: rgb(74, 74, 153);
+    border: none;
+    color: white;
+    padding: 2px 0px;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer; 
+    }
+    .b1:hover{
+        background-color:rgb(14, 14, 83);
+
+}
+.T3{
+    background-color: #e9ebee;
+}
+
+.T4{
+color: #365899;
+}
+.block{
+    margin-right: auto;
+}
+.a{
+    line-height: 0.4cm
+}
+.T5{
+    background-color: #e3e6f0;
+}
+.b{
+    margin-top: 100%;
+}
+.c{
+    height:10px ;
+    margin-top: -58px;
+    font-size:10px ; 
+}
+.d{
+    height:11px ;
+    font-size:10px;
+    margin-top: -19px;
+}
+.e{
+    height: 126px;
+}
+
+table{
+    border-collapse: collapse;
+}
